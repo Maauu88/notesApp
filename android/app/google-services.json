@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54282229231",
+    "project_id": "notasapp-b436a",
+    "storage_bucket": "notasapp-b436a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54282229231:android:748b70bb1e8f28489b921a",
+        "android_client_info": {
+          "package_name": "com.example.copylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpz2W3gbpxgpZ4ZDTK8E14kHMoHIsYosc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
